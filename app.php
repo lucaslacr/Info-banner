@@ -327,6 +327,7 @@ function display_banner($info)
         width:100%;
         text-align: center;
         color: ' . esc_html($info['text-color']) . '; 
+        text-decoration:none;
     }
     </style>
     <script>
