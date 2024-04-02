@@ -2,7 +2,7 @@
  
 This Wordpress plugin allow you to manage an info banner at the to of your website.
 
-##features
+## Features
 - Set a text
 - Ad link
 - Close it (and rememeber it)
